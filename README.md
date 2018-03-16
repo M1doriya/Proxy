@@ -10,8 +10,8 @@ Port: 8080
 # Running proxy.sh
 
 - open terminal
-- to set proxy run `.\proxy.sh "3 or 6"`
-- to unset proxy run `.\proxy.sh`
+- to set proxy run `./proxy.sh "3 or 6"`
+- to unset proxy run `./proxy.sh`
 
 # Manually setting Proxy :
 ## Linux
